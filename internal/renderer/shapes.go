@@ -12,7 +12,7 @@ package renderer
 import (
 	"math"
 
-	"github.com/stackedlol/ascii-sharks/internal/mathx"
+	"github.com/iman1704/ascii-flow/internal/mathx"
 )
 
 // Cell classification for shark raster cells. Ports FLAG_*.

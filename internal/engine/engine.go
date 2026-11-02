@@ -26,8 +26,8 @@ import (
 
 	"golang.org/x/term"
 
-	"github.com/stackedlol/ascii-sharks/internal/renderer"
-	"github.com/stackedlol/ascii-sharks/internal/world"
+	"github.com/iman1704/ascii-flow/internal/renderer"
+	"github.com/iman1704/ascii-flow/internal/world"
 )
 
 // STEP and MAX_STEPS mirror engine.ts's fixed-timestep loop.

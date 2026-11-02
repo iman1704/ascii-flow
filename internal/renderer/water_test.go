@@ -4,7 +4,7 @@ import (
 	"math"
 	"testing"
 
-	"github.com/stackedlol/ascii-sharks/internal/world"
+	"github.com/iman1704/ascii-flow/internal/world"
 )
 
 // Only creature-caused events ring: a catch near the surface spawns a

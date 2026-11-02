@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/stackedlol/ascii-sharks/internal/world"
+	"github.com/iman1704/ascii-flow/internal/world"
 )
 
 // Depth moves on screen: far fish lift toward the horizon while near

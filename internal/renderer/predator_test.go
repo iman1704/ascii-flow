@@ -3,7 +3,7 @@ package renderer
 import (
 	"testing"
 
-	"github.com/stackedlol/ascii-sharks/internal/world"
+	"github.com/iman1704/ascii-flow/internal/world"
 )
 
 // Schooling predators must rasterise as bodies, and each species must draw

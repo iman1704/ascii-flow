@@ -20,8 +20,8 @@ import (
 	"math"
 	"sort"
 
-	"github.com/stackedlol/ascii-sharks/internal/mathx"
-	"github.com/stackedlol/ascii-sharks/internal/species"
+	"github.com/iman1704/ascii-flow/internal/mathx"
+	"github.com/iman1704/ascii-flow/internal/species"
 )
 
 // SHARK_NODES is the spine node count per shark. Ports SHARK_NODES.

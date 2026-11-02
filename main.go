@@ -5,7 +5,7 @@ package main
 import (
 	"os"
 
-	"github.com/stackedlol/ascii-sharks/cmd"
+	"github.com/iman1704/ascii-flow/cmd"
 )
 
 func main() {

@@ -7,7 +7,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/stackedlol/ascii-sharks/internal/engine"
+	"github.com/iman1704/ascii-flow/internal/engine"
 )
 
 func newStartCmd() *cobra.Command {

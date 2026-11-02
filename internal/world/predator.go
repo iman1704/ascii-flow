@@ -6,7 +6,7 @@ package world
 import (
 	"math"
 
-	"github.com/stackedlol/ascii-sharks/internal/mathx"
+	"github.com/iman1704/ascii-flow/internal/mathx"
 )
 
 // PredatorKind selects the schooling-predator species. Kept separate from

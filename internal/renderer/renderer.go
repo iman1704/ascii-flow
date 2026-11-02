@@ -4,9 +4,9 @@ import (
 	"math"
 	"strings"
 
-	"github.com/stackedlol/ascii-sharks/internal/mathx"
-	"github.com/stackedlol/ascii-sharks/internal/species"
-	"github.com/stackedlol/ascii-sharks/internal/world"
+	"github.com/iman1704/ascii-flow/internal/mathx"
+	"github.com/iman1704/ascii-flow/internal/species"
+	"github.com/iman1704/ascii-flow/internal/world"
 )
 
 // pxCell mirrors world's reference pixel width of one terminal cell.

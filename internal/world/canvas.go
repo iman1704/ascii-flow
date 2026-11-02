@@ -17,8 +17,8 @@ import (
 	"math/rand/v2"
 	"time"
 
-	"github.com/stackedlol/ascii-sharks/internal/mathx"
-	"github.com/stackedlol/ascii-sharks/internal/species"
+	"github.com/iman1704/ascii-flow/internal/mathx"
+	"github.com/iman1704/ascii-flow/internal/species"
 )
 
 // churnRand is a dedicated random source for canvas entries: scheduling and
