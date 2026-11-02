@@ -1,0 +1,17 @@
+name: Bump Homebrew formula
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  bump:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Bump Homebrew formula
+        uses: mislav/bump-homebrew-formula-action@v3
+        with:
+          formula-name: ascii-flow
+          homebrew-tap: iman1704/homebrew-tap
+        env:
+          COMMITTER_TOKEN: ${{ secrets.TAP_REPO_TOKEN }}
