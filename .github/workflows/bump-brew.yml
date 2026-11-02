@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Bump Homebrew formula
-        uses: mislav/bump-homebrew-formula-action@v3
+        uses: mislav/bump-homebrew-formula-action@v4.2
         with:
           formula-name: ascii-flow
           homebrew-tap: iman1704/homebrew-tap
