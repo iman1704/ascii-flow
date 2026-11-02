@@ -1,8 +1,9 @@
 name: Bump Homebrew formula
 
 on:
-  release:
-    types: [published]
+  push:
+    tags:
+      - "v*"
 
 jobs:
   bump:
