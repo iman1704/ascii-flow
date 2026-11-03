@@ -4,6 +4,25 @@ A relaxing ocean screensaver for your terminal.
 
 This is the Go port of [stackedlol/ascii-sharks](https://github.com/stackedlol/ascii-sharks).
 
+## Install
+
+With Homebrew:
+
+```
+brew tap iman1704/tap && brew install iman1704/tap/ascii-flow
+```
+
+That installs the `asciiflow` command. The formula builds from source, so Homebrew will install Go as a build dependency if it isn't on your system already.
+
+To upgrade or remove it later:
+
+```
+brew upgrade ascii-flow
+brew uninstall ascii-flow
+```
+
+To build it yourself instead, see [Development](#development).
+
 ## Run it
 
 ```
