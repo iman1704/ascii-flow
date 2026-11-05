@@ -1,5 +1,7 @@
 # asciiflow
 
+![Demo gif](assets/demo.gif)
+
 A relaxing ocean screensaver for your terminal.
 
 This is the Go port of [stackedlol/ascii-sharks](https://github.com/stackedlol/ascii-sharks).
